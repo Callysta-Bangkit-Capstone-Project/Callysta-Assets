@@ -1,0 +1,157 @@
+{
+  "write" : [
+    {
+      "level" : 1,
+      "name" : "belajar",
+      "sublevel" : [
+        {
+          "id" : 1,
+          "answer" : "A",
+          "gifLink" : "https://github.com/Callysta-Bangkit-Capstone-Project/Callysta-Assets/raw/main/gif/learn-to-write/Huruf-A.gif"
+        },
+        {
+          "id" : 2,
+          "answer" : "B",
+          "gifLink" : "https://github.com/Callysta-Bangkit-Capstone-Project/Callysta-Assets/raw/main/gif/learn-to-write/Huruf-B.gif"
+        },
+        {
+          "id" : 3,
+          "answer" : "C",
+          "gifLink" : "https://github.com/Callysta-Bangkit-Capstone-Project/Callysta-Assets/raw/main/gif/learn-to-write/Huruf-C.gif"
+        },
+        {
+          "id" : 4,
+          "answer" : "D",
+          "gifLink" : "https://github.com/Callysta-Bangkit-Capstone-Project/Callysta-Assets/raw/main/gif/learn-to-write/Huruf-D.gif"
+        },
+        {
+          "id" : 5,
+          "answer" : "E",
+          "gifLink" : "https://github.com/Callysta-Bangkit-Capstone-Project/Callysta-Assets/raw/main/gif/learn-to-write/Huruf-E.gif"
+        },
+        {
+          "id" : 6,
+          "answer" : "F",
+          "gifLink" : "https://github.com/Callysta-Bangkit-Capstone-Project/Callysta-Assets/raw/main/gif/learn-to-write/Huruf-F.gif"
+        },
+        {
+          "id" : 7,
+          "answer" : "G",
+          "gifLink" : "https://github.com/Callysta-Bangkit-Capstone-Project/Callysta-Assets/raw/main/gif/learn-to-write/Huruf-G.gif"
+        },
+        {
+          "id" : 8,
+          "answer" : "H",
+          "gifLink" : "https://github.com/Callysta-Bangkit-Capstone-Project/Callysta-Assets/raw/main/gif/learn-to-write/Huruf-H.gif"
+        },
+        {
+          "id" : 9,
+          "answer" : "I",
+          "gifLink" : "https://github.com/Callysta-Bangkit-Capstone-Project/Callysta-Assets/raw/main/gif/learn-to-write/Huruf-I.gif"
+        },
+        {
+          "id" : 10,
+          "answer" : "J",
+          "gifLink" : "https://github.com/Callysta-Bangkit-Capstone-Project/Callysta-Assets/raw/main/gif/learn-to-write/Huruf-J.gif"
+        },
+        {
+          "id" : 11,
+          "answer" : "K",
+          "gifLink" : "https://github.com/Callysta-Bangkit-Capstone-Project/Callysta-Assets/raw/main/gif/learn-to-write/Huruf-K.gif"
+        },
+        {
+          "id" : 12,
+          "answer" : "L",
+          "gifLink" : "https://github.com/Callysta-Bangkit-Capstone-Project/Callysta-Assets/raw/main/gif/learn-to-write/Huruf-L.gif"
+        },
+        {
+          "id" : 13,
+          "answer" : "M",
+          "gifLink" : "https://github.com/Callysta-Bangkit-Capstone-Project/Callysta-Assets/raw/main/gif/learn-to-write/Huruf-M.gif"
+        },
+        {
+          "id" : 14,
+          "answer" : "N",
+          "gifLink" : "https://github.com/Callysta-Bangkit-Capstone-Project/Callysta-Assets/raw/main/gif/learn-to-write/Huruf-N.gif"
+        },
+        {
+          "id" : 15,
+          "answer" : "O",
+          "gifLink" : "https://github.com/Callysta-Bangkit-Capstone-Project/Callysta-Assets/raw/main/gif/learn-to-write/Huruf-O.gif"
+        },
+        {
+          "id" : 16,
+          "answer" : "P",
+          "gifLink" : "https://github.com/Callysta-Bangkit-Capstone-Project/Callysta-Assets/raw/main/gif/learn-to-write/Huruf-P.gif"
+        },
+        {
+          "id" : 17,
+          "answer" : "Q",
+          "gifLink" : "https://github.com/Callysta-Bangkit-Capstone-Project/Callysta-Assets/raw/main/gif/learn-to-write/Huruf-Q.gif"
+        },
+        {
+          "id" : 18,
+          "answer" : "R",
+          "gifLink" : "https://github.com/Callysta-Bangkit-Capstone-Project/Callysta-Assets/raw/main/gif/learn-to-write/Huruf-R.gif"
+        },
+        {
+          "id" : 19,
+          "answer" : "S",
+          "gifLink" : "https://github.com/Callysta-Bangkit-Capstone-Project/Callysta-Assets/raw/main/gif/learn-to-write/Huruf-S.gif"
+        },
+        {
+          "id" : 20,
+          "answer" : "T",
+          "gifLink" : "https://github.com/Callysta-Bangkit-Capstone-Project/Callysta-Assets/raw/main/gif/learn-to-write/Huruf-T.gif"
+        },
+        {
+          "id" : 21,
+          "answer" : "U",
+          "gifLink" : "https://github.com/Callysta-Bangkit-Capstone-Project/Callysta-Assets/raw/main/gif/learn-to-write/Huruf-U.gif"
+        },
+        {
+          "id" : 22,
+          "answer" : "V",
+          "gifLink" : "https://github.com/Callysta-Bangkit-Capstone-Project/Callysta-Assets/raw/main/gif/learn-to-write/Huruf-V.gif"
+        },
+        {
+          "id" : 23,
+          "answer" : "W",
+          "gifLink" : "https://github.com/Callysta-Bangkit-Capstone-Project/Callysta-Assets/raw/main/gif/learn-to-write/Huruf-W.gif"
+        },
+        {
+          "id" : 24,
+          "answer" : "X",
+          "gifLink" : "https://github.com/Callysta-Bangkit-Capstone-Project/Callysta-Assets/raw/main/gif/learn-to-write/Huruf-X.gif"
+        },
+        {
+          "id" : 25,
+          "answer" : "Y",
+          "gifLink" : "https://github.com/Callysta-Bangkit-Capstone-Project/Callysta-Assets/raw/main/gif/learn-to-write/Huruf-Y.gif"
+        },
+        {
+          "id" : 26,
+          "answer" : "Z",
+          "gifLink" : "https://github.com/Callysta-Bangkit-Capstone-Project/Callysta-Assets/raw/main/gif/learn-to-write/Huruf-Z.gif"
+        }  
+      ]
+    },
+    {
+      "level" : 2,
+      "name" : "latihan",
+      "sublevel" : []
+    }
+  ],
+  "read" : [
+    {
+      "level" : 1,
+      "name" : "Belajar",
+      "sublevel" : []
+    },
+    {
+      "level" : 2,
+      "name" : "latihan",
+      "sublevel" : []
+    }
+  ]
+}
